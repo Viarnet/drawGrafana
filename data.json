@@ -3,6 +3,12 @@
 	"key": "UNIMED-TRABALHO-MEDICO",
 	"latitude": "-25.29955645359103",
   	"longitude": "-54.09148521349176",
-  	"name": "UNIMED-BRASILIA-2291",
+  	"name": "UNIMED-BRASILIA-2291"
+  },
+  {
+	"key": "NE40",
+	"latitude": "-25.2924977",
+  	"longitude": "-54.0911977",
+  	"name": "NE40-BNG-01"
   }
 ]
