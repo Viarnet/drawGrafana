@@ -2,13 +2,13 @@
   {
 	"key": "NE8K",
 	"latitude": "-25.2924977",
-  "longitude": "-54.0911977",
-  "name": "NE8K-BNG-02"
-  }
+  	"longitude": "-54.0911977",
+  	"name": "NE8K-BNG-02"
+  },
   {
 	"key": "NE40",
 	"latitude": "-25.2924977",
-  "longitude": "-54.0911977",
-  "name": "NE40-BNG-01"
+  	"longitude": "-54.0911977",
+  	"name": "NE40-BNG-01"
   }
 ]
