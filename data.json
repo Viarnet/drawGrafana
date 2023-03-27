@@ -13,7 +13,7 @@
   },
   {
 	"key": "SICREDI-PEDRO-SOC-1377",
-	"latitude": "-25.292516877634963",, 
+	"latitude": "-25.292516877634963", 
   	"longitude": "-54.0974232738778",
   	"name": "SICREDI-PEDRO-SOC-1377"
   },
@@ -61,7 +61,7 @@
   },
   {
 	"key": "LAR-OPERACIONAL-LINHA-DOURADO",
-	"latitude": "-25.329267624213085"
+	"latitude": "-25.329267624213085",
   	"longitude": "-54.0440341381357",
   	"name": "LAR-OPERACIONAL-LINHA-DOURADO"
   },
