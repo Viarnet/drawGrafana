@@ -6,6 +6,18 @@
   	"name": "UNIMED-BRASILIA-2291"
   },
   {
+	"key": "SICREDI-RGS-2807",
+	"latitude": "-25.297966950745426", 
+  	"longitude": "-54.101095057672424",
+  	"name": "SICREDI-RIO-GRANDE-SUL-2807"
+  },
+  {
+	"key": "SICREDI-PEDRO-SOC-1377",
+	"latitude": "-25.292516877634963", 
+  	"longitude": "-54.0974232738778",
+  	"name": "SICREDI-PEDRO-SOCCOL-1377"
+  },
+  {
 	"key": "NE40",
 	"latitude": "-25.2924977",
   	"longitude": "-54.0911977",
