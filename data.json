@@ -78,6 +78,156 @@
   	"name": "LAR-LOJA-SAO-CRISTOVAO"
   },
   {
+	"key": "LAR-MAQUINAS",
+	"latitude": "-25.286336721190132", 
+  	"longitude": "-54.09498844346387",
+  	"name": "LAR-MAQUINAS"
+  },
+  {
+	"key": "LAR-UNIDADE-SAO-MIGUEL",
+	"latitude": "-25.35548634", 
+  	"longitude": "-54.23593180",
+  	"name": "LAR-UNIDADE-SAO-MIGUEL"
+  },
+  {
+	"key": "LAR-UNIDADE-SERRANOPOLIS",
+	"latitude": "-25.38955552", 
+  	"longitude": "-54.05612903",
+  	"name": "LAR-UNIDADE-SERRANOPOLIS"
+  },
+  {
+	"key": "LAR-SEDE-ADM-",
+	"latitude": "-25.27487362", 
+  	"longitude": "-54.06775463",
+  	"name": "LAR-SEDE-ADM"
+  },
+  {
+	"key": "LAR-MERCADO-CENTRO",
+	"latitude": "-25.297578126842478", 
+  	"longitude": "-54.094244068787674",
+  	"name": "LAR-MERCADO-CENTRO"
+  },
+  {
+	"key": "LAR-UIA-MATELANDIA",
+	"latitude": "-25.20622356", 
+  	"longitude": "-53.95068570",
+  	"name": "LAR-UIA-MATELANDIA"
+  },
+  {
+	"key": "LAR-OPERACIONAL-CAFEEIRA",
+	"latitude": "-25.18873308", 
+  	"longitude": "-53.94980143",
+  	"name": "LAR-OPERACIONAL-CAFEEIRA"
+  },
+  {
+	"key": "LAR-MERCADO-SAOMIGUEL",
+	"latitude": "-25.34317081", 
+  	"longitude": "-25.34317081",
+  	"name": "LAR-MERCADO-SAOMIGUEL"
+  },
+  {
+	"key": "LAR-MERCADO-CEUAZUL",
+	"latitude": "-25.14870727", 
+  	"longitude": "-53.84316509",
+  	"name": "LAR-MERCADO-CEUAZUL"
+  },
+  {
+	"key": "LAR-MERCADO-CAFEEIRA",
+	"latitude": "-25.19466514", 
+  	"longitude": "-53.94222891",
+  	"name": "LAR-MERCADO-CAFEEIRA"
+  },
+  {
+	"key": "LAR-CREDI-MEDIANEIRA",
+	"latitude": "-25.297578126842478", 
+  	"longitude": "-54.094244068787674",
+  	"name": "LAR-CREDI-MEDIANEIRA"
+  },
+  {
+	"key": "LAR-CREDI-MATRIZ",
+	"latitude": "-25.27487362", 
+  	"longitude": "-54.06775463",
+  	"name": "LAR-CREDI-MATRIZ"
+  },
+  {
+	"key": "LAR-CENTRO-DE-EVENTOS",
+	"latitude": "-25.27644393", 
+  	"longitude": "-54.06655716",
+  	"name": "LAR-CENTRO-DE-EVENTOS"
+  },
+  {
+	"key": "LAR-BOM-JESUS",
+	"latitude": "-25.31707355", 
+  	"longitude": "-54.15946407",
+  	"name": "LAR-BOM-JESUS"
+  },
+  {
+	"key": "LAR-BOM-JESUS-NOVO",
+	"latitude": "-25.31466683441948", 
+  	"longitude": "-54.156045373016504",
+  	"name": "LAR-BOM-JESUS-NOVO"
+  },
+  {
+	"key": "LAERCIO-SCHOELER-GRANJA-SAOMIGUEL",
+	"latitude": "-25.27851949", 
+  	"longitude": "-54.24266587",
+  	"name": "LAERCIO-SCHOELER-GRANJA-SAOMIGUEL"
+  },
+  {
+	"key": "UPA",
+	"latitude": "-25.300617255301038", 
+  	"longitude": "-54.11037934232783",
+  	"name": "UPA"
+  },
+  {
+	"key": "DISTRIBUIDORA-PITANGUEIRAS-AGROPECUARIOS",
+	"latitude": "-25.27201423", 
+  	"longitude": "-54.06319525",
+  	"name": "DISTRIBUIDORA-PITANGUEIRAS-AGROPECUARIOS"
+  },
+  {
+	"key": "DISAM-SERRANOPOLIS",
+	"latitude": "-25.31419053", 
+  	"longitude": "-54.04007281",
+  	"name": "DISAM-SERRANOPOLIS"
+  },
+  {
+	"key": "DISAM-KM-668",
+	"latitude": "-25.27108429", 
+  	"longitude": "-54.06502151",
+  	"name": "DISAM-KM-668"
+  },
+  {
+	"key": "DISAM-KM-495",
+	"latitude": "-25.40356870", 
+  	"longitude": "-54.04630101",
+  	"name": "DISAM-KM-495"
+  },
+  {
+	"key": "UNICRED-GRANDE-FLORIANOPOLIS",
+	"latitude": "-25.29000405", 
+  	"longitude": "-54.09361870",
+  	"name": "UNICRED-GRANDE-FLORIANOPOLIS"
+  },
+  {
+	"key": "CONSORCIO-INTERMUNICIPAL-SAUDE",
+	"latitude": "-25.30719173", 
+  	"longitude": "-54.08037990",
+  	"name": "CONSORCIO-INTERMUNICIPAL-SAUDE"
+  },
+  {
+	"key": "CGS",
+	"latitude": "-25.26984749", 
+  	"longitude": "-54.05553930",
+  	"name": "CGS"
+  },
+  {
+	"key": "ASSOCIACAO-MISSIONARIA-IRMAS-SERVAS-E-S",
+	"latitude": "-25.29662271", 
+  	"longitude": "-54.09971560",
+  	"name": "ASSOCIACAO-MISSIONARIA-IRMAS-SERVAS-E-S"
+  },
+  {
 	"key": "NE40",
 	"latitude": "-25.2924977",
   	"longitude": "-54.0911977",
