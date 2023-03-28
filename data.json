@@ -228,6 +228,60 @@
   	"name": "ASSOCIACAO-MISSIONARIA-IRMAS-SERVAS-E-S"
   },
   {
+	"key": "SICREDI-PARQUE-TEC",
+	"latitude": "-25.26713202", 
+  	"longitude": "-54.05114127",
+  	"name": "SICREDI-PARQUE-TECNOLOGICO"
+  },
+  {
+	"key": "SICREDI-PAR-1407-SEDE",
+	"latitude": "-25.29157137", 
+  	"longitude": "-54.09278654",
+  	"name": "SICREDI-SEDE-PAR-1407"
+  },
+  {
+	"key": "SICREDI-PAR-1407B",
+	"latitude": "-25.29123346", 
+  	"longitude": "-54.09280832",
+  	"name": "SICREDI-PAR-1407B"
+  },
+  {
+	"key": "SICREDI-MATELANDIA",
+	"latitude": "-25.23981676", 
+  	"longitude": "-53.97948607",
+  	"name": "SICREDI-MATELANDIA"
+  },
+  {
+	"key": "SICREDI-LAR",
+	"latitude": "-25.298087635751987", 
+  	"longitude": "-54.09477303439383",
+  	"name": "SICREDI-LAR"
+  },
+  {
+	"key": "SICREDI-FRIMESA",
+	"latitude": "-25.288185261697734", 
+  	"longitude": "-54.10511237301667",
+  	"name": "SICREDI-FRIMESA"
+  },
+  {
+	"key": "SICREDI-SERRANOPOLIS",
+	"latitude": "-25.38205695", 
+  	"longitude": "-54.05385332",
+  	"name": "SICREDI-SERRANOPOLIS"
+  },
+  {
+	"key": "SICREDI-AGRO-CAFEEIRA",
+	"latitude": "-25.19391080", 
+  	"longitude": "-53.94092401",
+  	"name": "SICREDI-AGRO-CAFEEIRA"
+  },
+  {
+	"key": "SICREDI-CEUAZUL",
+	"latitude": "-25.15181003", 
+  	"longitude": "-53.84735455",
+  	"name": "SICREDI-CEUAZUL"
+  },
+  {
 	"key": "NE40",
 	"latitude": "-25.2924977",
   	"longitude": "-54.0911977",
