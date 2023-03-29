@@ -4,5 +4,29 @@
 	"latitude": "-25.24422590",
   	"longitude": "-54.06046752",
   	"name": "TORRE_SAO_BRAZ -25.24422590,-54.06046752"
+  },
+  {
+	"key": "BG_SAOBRAZ_SET_1",
+	"latitude": "-25.244296139982453",
+  	"longitude": "-54.06044062913405",
+  	"name": "BG_SAOBRAZ_SET_1"
+  },
+  {
+	"key": "BG_SAOBRAZ_SET_2",
+	"latitude": "-25.24432358761981",
+  	"longitude": "-54.060560115449846",
+  	"name": "BG_SAOBRAZ_SET_1"
+  },
+  {
+	"key": "-25.24416061718214",
+	"latitude": "-25.24422590",
+  	"longitude": "-54.06046752",
+  	"name": "-54.06066822211652"
+  },
+  {
+	"key": "BG_SAOBRAZ5",
+	"latitude": "-25.244016516823592",
+  	"longitude": "-54.06048235451417",
+  	"name": "BG_SAOBRAZ5"
   }
 ]
